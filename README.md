@@ -1,5 +1,5 @@
 
-![](https://github.com/giriraj761/giriraj761/blob/main/085.png?raw=true)
+![](https://github.com/giriraj761/giriraj761/blob/main/085.jpg?raw=true)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'M+GIRIRAJ%20KRISHNA%20SHARMA)](https://git.io/typing-svg)
