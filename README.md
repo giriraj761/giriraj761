@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/k1ng440/Wallpapers/master/wallpapers/027.jpg)
+![](https://github.com/giriraj761/giriraj761/blob/main/085.png?raw=true)
 
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'M+GIRIRAJ%20KRISHNA%20SHARMA)](https://git.io/typing-svg)
@@ -15,6 +15,7 @@ I ❤️ PROGRAMMING!
 Inspired Computer💻 Enthusiast
 
 ☢️ANIME LOVER ||    🎮 GAMER    || ☕️ COFFEE LOVER 
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -39,6 +40,5 @@ Inspired Computer💻 Enthusiast
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
-
-## 𝗦𝘁𝗮𝘁𝘀
+#
 
