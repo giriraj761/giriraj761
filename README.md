@@ -2,7 +2,8 @@
 ![](https://github.com/giriraj761/giriraj761/blob/main/085.png?raw=true)
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'M+GIRIRAJ%20KRISHNA%20SHARMA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'M+GIRIRAJ%20KRISHNA%20SHARMA)](https://git.io/typing-svg)
+
 [![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/giriraj-krishna-sharma/)
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/giriraj761)
 [![](https://img.shields.io/badge/-Gmail-%23181717?style=flat-square&logo=gmail)](mailto:sharmagirirajk@gmail.com)
@@ -17,7 +18,7 @@ Inspired Computer💻 Enthusiast
 ☢️ANIME LOVER ||    🎮 GAMER    || ☕️ COFFEE LOVER 
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+# 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -40,5 +41,5 @@ Inspired Computer💻 Enthusiast
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 
-#
+![](https://raw.githubusercontent.com/giriraj761/giriraj761/main/sataru.webp)
 
